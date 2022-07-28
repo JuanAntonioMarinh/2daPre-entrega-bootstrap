@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Qwigley&display=swap');
+
+
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box !important;
+}
+
+.mainbox{
+    height: 40%;
+}
+.logopositano{
+    background-color: #1f1d1d;
+    text-align: center;
+}
+
+.greencursive{
+    margin: 15px;
+}
+
+.navbar{
+    background-color:#1f1d1d;
+    color: #31d1bc;
+}
+
+.nav-link:hover{
+    color: #31d1bc !important;
+}
+
+.navbar-brand:hover{
+    color: #31d1bc !important;
+}
+
+.positanoimgs{
+    background-color: #1f1d1d;
+}
+
+.cannabisgal{
+    background-color: #1f1d1d;
+}
+
+.index-imgs{
+    background-color: #1f1d1d;
+}
+
+
+
+
+.under{
+    background-color: #1f1d1d;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    
+}
+
+.social{
+    color:#31d1bc;
+    padding: 30px;
+    font-size: 60px;
+}
+
+
+.social:hover{
+    color: #a411b8;
+}
+
+
+
+@media only screen and (max-width: 720px){
+    .social{
+        font-size: 30px;
+        padding: 20px;
+    }
+}    
+
+
+
